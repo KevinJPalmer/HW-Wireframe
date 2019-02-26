@@ -13,8 +13,8 @@ body {
 
   color:gray;
   background: gray;
-  width: 900px;
-  font-size: 20px;
+  width: 960px;
+  font-size: 18px;
   text-align: center;
   margin: auto;
 }
@@ -29,7 +29,7 @@ section {
   background: white;
   padding: 20px;
   float: left;
-  width: 400px;
+  width: 495px;
 }
 
 article {
@@ -43,7 +43,7 @@ div {
   color: gray;
   background: white;
   padding: 20px;
-  width:300px;
+  width:415px;
   margin-top: 5px;
 }
 
@@ -54,10 +54,10 @@ div {
 
 aside {
   background: white;
-  width:400px;
-  height:250px;
+  width:375px;
+  height:243px;
   float: left;
-  margin-left: 20px;
+  margin-left: 10px;
   margin-bottom: 20px;
   padding: 20px;
 }
