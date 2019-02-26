@@ -1,0 +1,71 @@
+header {
+  padding:30px;
+  margin-bottom: 5px;
+  background: white;
+}
+
+
+.body{
+    padding: 30px;
+}
+
+body {
+
+  color:gray;
+  background: gray;
+  width: 900px;
+  font-size: 20px;
+  text-align: center;
+  margin: auto;
+}
+
+nav {
+  background: white;
+  padding: 30px;
+  margin-bottom: 10px;
+}
+
+section {
+  background: white;
+  padding: 20px;
+  float: left;
+  width: 400px;
+}
+
+article {
+  color: white;
+  background: gray;
+  padding:20px;
+  margin-top: 10px;
+}
+
+div {
+  color: gray;
+  background: white;
+  padding: 20px;
+  width:300px;
+  margin-top: 5px;
+}
+
+.largertext {
+  font-size: 35px;
+  font-weight: bold;
+}
+
+aside {
+  background: white;
+  width:400px;
+  height:250px;
+  float: left;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+footer {
+  background: white;
+  overflow: auto;
+  padding: 20px;
+  margin-top: 30px;
+  clear:  both;
+}
